@@ -1,4 +1,8 @@
 # Lab: ChatGPT API & Unity Demo
+
+### Full Project Source Code
+https://drive.google.com/file/d/1ve9L6UgodV_BLTXzDCONyy_PTMAAFFHC/view?usp=share_link
+
 ## Objective
 Create a ChatGame in Unity using C# and chatGPT API.
 
